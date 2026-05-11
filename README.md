@@ -1,2 +1,26 @@
 # my-first-game-unity-cs
-My First Game is a 2D action shooter game developed with Unity and C# as a learning project. The player controls a character, defeats moving enemies that chase the player, and avoids enemy contact. Enemies respawn automatically when defeated, creating endless gameplay. 
+# Enemy Shooter - My First Game
+
+🎮 **Play here:** https://newbie-jx.itch.io/hollower-9
+
+A 2D action shooter where enemies chase you from screen corners and respawn when defeated.
+
+## How to Play
+- **WASD / Arrows** = Move  
+
+## Built With
+Unity 2D | C# | Rigidbody2D
+
+## What I Learned
+- Enemy AI (chasing player with vector math)
+- C# events for respawn system (`OnDie += SpawnEnemy`)
+- 2D collisions and triggers
+- Random spawn positioning
+- Publishing games on Itch.io
+
+## Author
+Software Engineering Student - Hangzhou, China
+Mouad Tarfaoui
+---
+
+*My first complete game project.*
